@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Lavanya_projects\\Hands-on\\ToDoList-Project\\ASPWithVue\\webapi\\wwwroot\\Cached\\vue-router.js",
+      "PackagePath": "staticwebassets\\Cached\\vue-router.js"
+    },
+    {
+      "Id": "D:\\Lavanya_projects\\Hands-on\\ToDoList-Project\\ASPWithVue\\webapi\\wwwroot\\Cached\\vue.js",
+      "PackagePath": "staticwebassets\\Cached\\vue.js"
+    },
+    {
+      "Id": "D:\\Lavanya_projects\\Hands-on\\ToDoList-Project\\ASPWithVue\\webapi\\wwwroot\\Cached\\vuetify.js",
+      "PackagePath": "staticwebassets\\Cached\\vuetify.js"
+    },
+    {
+      "Id": "D:\\Lavanya_projects\\Hands-on\\ToDoList-Project\\ASPWithVue\\webapi\\wwwroot\\vue\\css\\app.732f3c3e.css",
+      "PackagePath": "staticwebassets\\vue\\css\\app.732f3c3e.css"
+    },
+    {
+      "Id": "D:\\Lavanya_projects\\Hands-on\\ToDoList-Project\\ASPWithVue\\webapi\\wwwroot\\vue\\favicon.ico",
+      "PackagePath": "staticwebassets\\vue\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Lavanya_projects\\Hands-on\\ToDoList-Project\\ASPWithVue\\webapi\\wwwroot\\vue\\index.html",
+      "PackagePath": "staticwebassets\\vue\\index.html"
+    },
+    {
+      "Id": "D:\\Lavanya_projects\\Hands-on\\ToDoList-Project\\ASPWithVue\\webapi\\wwwroot\\vue\\js\\app.efcf02c3.js",
+      "PackagePath": "staticwebassets\\vue\\js\\app.efcf02c3.js"
+    },
+    {
+      "Id": "D:\\Lavanya_projects\\Hands-on\\ToDoList-Project\\ASPWithVue\\webapi\\wwwroot\\vue\\js\\app.efcf02c3.js.map",
+      "PackagePath": "staticwebassets\\vue\\js\\app.efcf02c3.js.map"
+    },
+    {
+      "Id": "D:\\Lavanya_projects\\Hands-on\\ToDoList-Project\\ASPWithVue\\webapi\\wwwroot\\vue\\js\\chunk-vendors.f78d19ce.js",
+      "PackagePath": "staticwebassets\\vue\\js\\chunk-vendors.f78d19ce.js"
+    },
+    {
+      "Id": "D:\\Lavanya_projects\\Hands-on\\ToDoList-Project\\ASPWithVue\\webapi\\wwwroot\\vue\\js\\chunk-vendors.f78d19ce.js.map",
+      "PackagePath": "staticwebassets\\vue\\js\\chunk-vendors.f78d19ce.js.map"
+    },
+    {
+      "Id": "obj\\Debug npm build\\net7.0\\staticwebassets\\msbuild.build.webapi.props",
+      "PackagePath": "build\\webapi.props"
+    },
+    {
+      "Id": "obj\\Debug npm build\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.webapi.props",
+      "PackagePath": "buildMultiTargeting\\webapi.props"
+    },
+    {
+      "Id": "obj\\Debug npm build\\net7.0\\staticwebassets\\msbuild.buildTransitive.webapi.props",
+      "PackagePath": "buildTransitive\\webapi.props"
+    },
+    {
+      "Id": "obj\\Debug npm build\\net7.0\\staticwebassets\\msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
